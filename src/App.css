@@ -1,18 +1,15 @@
-.App {
+/* .App {
   text-align: center;
-}
-
+} */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -23,11 +20,24 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
 .App-link {
   color: #61dafb;
 }
 
+.css-1qvr50w-MuiTypography-root {
+ 
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+
+}
+
+.css-1qbkelo-MuiCardHeader-content{
+  text-align: center !important;
+}
+
+.css-1rwjz6-MuiCardActions-root div{
+  font-weight: 600 !important;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +45,78 @@
   to {
     transform: rotate(360deg);
   }
+}
+.row-cols-3>* {
+  margin-bottom: 25px;
+}
+.header{
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(to right bottom,rgba(10,10,10,0.856),rgba(0, 0, 0, 0.788)),url(./img/BGCR.jpg);
+  /* background-image: url(./img/BGCR.jpg); */
+}
+.input{
+  align-self: center;
+}
+h5 {
+  color: white;
+}
+h2{
+  color :white;
+}
+.nav-link {
+  color: #e9ecef;
+}
+
+
+.css-319lph-ValueContainer{
+  display: none !important;
+}
+
+.css-1okebmr-indicatorSeparator{
+  display: none !important;
+}
+
+.css-1n7v3ny-option{
+  background-color: #3e3e42 !important;
+}
+
+.form-control{
+  background-color: #5a56561a !important;
+  color: white !important;
+}
+
+.css-26l3qy-menu{
+  background-color: #00000099 !important;
+  color: white !important;
+}
+
+.css-av45mt-MuiPaper-root-MuiCard-root{
+  background-color: #968f8f1a !important;
+  color: white !important;
+  padding: 10px !important;
+}
+
+.css-1iwtne7-MuiTypography-root-MuiLink-root{
+  text-decoration: none !important;
+  color:#c7d014 !important;
+}
+  
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #1f1e1e; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
 }
