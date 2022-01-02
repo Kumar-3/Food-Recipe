@@ -26,7 +26,7 @@ const Recipe = ({ title, calories, image, ingredients, url}) => {
   const handleExpandClick = () => {
     setExpanded(!expanded);
   };
-  
+
   return (
     <div>
       <Card sx={{ maxWidth: 320 }}>
@@ -51,7 +51,7 @@ const Recipe = ({ title, calories, image, ingredients, url}) => {
         <Collapse in={expanded} timeout="auto" unmountOnExit>
           <CardContent>
             {ingredients.map((ingredient) => (
-              <Typography>
+              <Typography key={ingredient}>
                 <li>{ingredient.text}</li>
               </Typography>
             ))}

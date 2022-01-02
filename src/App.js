@@ -69,16 +69,16 @@ function App() {
       <div className="header">
         <div className="container-fluid">
           <nav className="navbar navbar-expand-lg">
-            <a className="navbar-brand" href="/">
+            <a className="navbar-brand" href="index.html">
               <h2>Food Recipe</h2>
             </a>
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">
+                <a className="nav-link active" aria-current="page" href="index.html">
                   <h5>Home</h5>
                 </a>
               </li>
-              <a className="nav-link active" aria-current="page" href="/">
+              <a className="nav-link active" aria-current="page" href="index.html">
                 <h5>Food Categories</h5>
               </a>
 
@@ -112,7 +112,7 @@ function App() {
           <div className="container mt-5">
             <div className="row justify-content-md-center row-cols-3">
               {recipes.map((recipe) => (
-                <div className="col">
+                <div className="col" key={recipe.recipe.label}>
                   <Recipe
                     title={recipe.recipe.label}
                     calories={recipe.recipe.calories}
