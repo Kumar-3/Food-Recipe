@@ -81,7 +81,7 @@ function App() {
               <a className="nav-link active" aria-current="page" href="index.html">
                 <h5>Food Categories</h5>
               </a>
-
+              
               <Select
                 styles={customStyles}
                 onChange={UpdateSelectedOption}
