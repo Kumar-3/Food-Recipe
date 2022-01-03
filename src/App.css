@@ -69,7 +69,8 @@ h2{
 }
 
 
-.css-319lph-ValueContainer{
+.css-319lph-ValueContainer,
+.css-14el2xx-placeholder{
   display: none !important;
 }
 
@@ -91,13 +92,15 @@ h2{
   color: white !important;
 }
 
-.css-av45mt-MuiPaper-root-MuiCard-root{
+.css-av45mt-MuiPaper-root-MuiCard-root,
+.css-1fwqn4z{
   background-color: #968f8f1a !important;
   color: white !important;
   padding: 10px !important;
 }
 
-.css-1iwtne7-MuiTypography-root-MuiLink-root{
+.css-1iwtne7-MuiTypography-root-MuiLink-root,
+.css-x8nsji{
   text-decoration: none !important;
   color:#c7d014 !important;
 }
