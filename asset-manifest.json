@@ -1,7 +1,7 @@
 {
-  "main.css": "/Food-Recipe/static/css/main.2fc1799f.chunk.css",
-  "main.js": "/Food-Recipe/static/js/main.32419cb4.chunk.js",
-  "main.js.map": "/Food-Recipe/static/js/main.32419cb4.chunk.js.map",
+  "main.css": "/Food-Recipe/static/css/main.fbb4c1c6.chunk.css",
+  "main.js": "/Food-Recipe/static/js/main.88d287a0.chunk.js",
+  "main.js.map": "/Food-Recipe/static/js/main.88d287a0.chunk.js.map",
   "static/js/1.3e3029ab.chunk.js": "/Food-Recipe/static/js/1.3e3029ab.chunk.js",
   "static/js/1.3e3029ab.chunk.js.map": "/Food-Recipe/static/js/1.3e3029ab.chunk.js.map",
   "static/js/2.4a7ffa39.chunk.js": "/Food-Recipe/static/js/2.4a7ffa39.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/Food-Recipe/static/js/runtime~main.a7c877f9.js",
   "runtime~main.js.map": "/Food-Recipe/static/js/runtime~main.a7c877f9.js.map",
   "static/media/App.css": "/Food-Recipe/static/media/BGCR.268fcc0b.jpg",
-  "static/css/main.2fc1799f.chunk.css.map": "/Food-Recipe/static/css/main.2fc1799f.chunk.css.map",
+  "static/css/main.fbb4c1c6.chunk.css.map": "/Food-Recipe/static/css/main.fbb4c1c6.chunk.css.map",
   "index.html": "/Food-Recipe/index.html",
-  "precache-manifest.f6e84138926c3d881729a3a2dadee075.js": "/Food-Recipe/precache-manifest.f6e84138926c3d881729a3a2dadee075.js",
+  "precache-manifest.76c898fccfb1427b375eaa539735a42c.js": "/Food-Recipe/precache-manifest.76c898fccfb1427b375eaa539735a42c.js",
   "service-worker.js": "/Food-Recipe/service-worker.js"
 }

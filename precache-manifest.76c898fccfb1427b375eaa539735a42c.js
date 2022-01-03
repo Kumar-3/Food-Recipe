@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "32419cb442b1ac6d28ac",
-    "url": "/Food-Recipe/static/css/main.2fc1799f.chunk.css"
+    "revision": "88d287a0eeab44c63651",
+    "url": "/Food-Recipe/static/css/main.fbb4c1c6.chunk.css"
   },
   {
-    "revision": "32419cb442b1ac6d28ac",
-    "url": "/Food-Recipe/static/js/main.32419cb4.chunk.js"
+    "revision": "88d287a0eeab44c63651",
+    "url": "/Food-Recipe/static/js/main.88d287a0.chunk.js"
   },
   {
     "revision": "3e3029ab388b12148705",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Food-Recipe/static/media/BGCR.268fcc0b.jpg"
   },
   {
-    "revision": "25300903d9ae00500f6b5d2e7617452d",
+    "revision": "116cfc8e09e82dd62f2ce18a245e6a44",
     "url": "/Food-Recipe/index.html"
   }
 ];
